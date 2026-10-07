@@ -1,0 +1,6 @@
+{
+  "name": "Aura & Noor | Luxury Beauty Parlour & Bridal Studio",
+  "description": "Premium beauty parlour, bridal makeover studio, hair aesthetics, and luxury wellness spa with online appointment booking, rate card, and custom bridal packages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
